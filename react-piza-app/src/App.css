@@ -1,0 +1,35 @@
+.cart-icon {
+  color: #fff;
+  position: relative;
+}
+
+.cart-icon > span {
+  background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    color: #000;
+    right: -10px;
+    font-size: 10px;
+    width: 15px;
+    text-align: center;
+    height: 15px;
+    line-height: 15px;
+}
+
+.cart-item {
+  padding: 0;
+}
+
+.underline {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.cart-item-wrap input {
+  max-width: 45px;
+}
+.card-des {
+  overflow: hidden;
+  height: 75px;
+}

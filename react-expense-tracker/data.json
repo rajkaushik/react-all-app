@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "id": "9dcb19d5-6175-4b9d-b706-1e4617b8481e",
+      "description": "Grocery from store",
+      "amount": "5000",
+      "transactiondate": "2024-03-08",
+      "category": "income"
+    },
+    {
+      "id": "3f02dcae-5f3b-478a-8baa-17119630987a",
+      "description": "Shop rent",
+      "amount": "4000",
+      "transactiondate": "2024-03-09",
+      "category": "income"
+    },
+    {
+      "id": "5705da90-b426-4d4e-ac04-08f6325af942",
+      "description": "School feee",
+      "amount": "15000",
+      "transactiondate": "2024-03-09",
+      "category": "expense"
+    }
+  ]
+}
